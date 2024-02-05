@@ -1,0 +1,10 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/Lock.sub
+DOWN: /ext/subghz/Un_lock.sub
+LEFT: /ext/subghz/Lock 2.0.sub
+RIGHT: /ext/subghz/Un lock2.0.sub
+ULABEL: Lock
+DLABEL: Un_lock
+LLABEL: Lock 2
+RLABEL: Unlock 2
